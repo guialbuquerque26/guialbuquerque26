@@ -1,8 +1,6 @@
 # Olá, eu sou o Guilherme 👋
 
-**Desenvolvedor Full Stack** com foco em **Python, React e SQL**. Crio sistemas internos, dashboards de análise de dados, automações e integrações com APIs REST.
-
-Na **Queonetics**, comecei no Suporte Técnico N2 e passei a desenvolver os produtos internos da empresa. Hoje também exploro IA generativa, LLMs, agentes de IA e servidores MCP em projetos pessoais.
+**Desenvolvedor Full Stack** com foco em **Python, React e SQL**. Crio sistemas internos, dashboards de análise de dados, automações e integrações com APIs REST. Também exploro IA generativa, LLMs, agentes de IA e servidores MCP.
 
 ## 🛠️ Tecnologias
 
@@ -28,7 +26,11 @@ Na **Queonetics**, comecei no Suporte Técnico N2 e passei a desenvolver os prod
 | [RematchAnalyzer](https://github.com/guialbuquerque26/RematchAnalyzer) | Coleta de estatísticas de jogadores por scraping e análise de desempenho com IA | Python, Flask, Playwright, Gemini |
 | [IA-TALK-IA](https://github.com/guialbuquerque26/IA-TALK-IA) | Conversa autônoma entre duas IAs (Gemini e Cohere), com relatório final gerado automaticamente | Python, Gemini, Cohere |
 
-### Produtos internos na Queonetics (código privado)
+## 💼 Experiência
+
+**Queonetics** · Desenvolvedor de Produtos Internos | Suporte Técnico N2
+
+Comecei no Suporte Técnico N2 e passei a desenvolver os produtos internos da empresa (código privado):
 
 - **QueoDesk:** gestão de tickets integrada ao Jira, com KPIs personalizáveis e portal do cliente.
 - **SynQ:** plataforma que unificou várias ferramentas de análise em um único dashboard, com busca de veículos e chat com IA.
