@@ -17,11 +17,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 
 ## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [Atlas](https://github.com/guialbuquerque26/Atlas) | IA multimodal 100% local: analisa imagens, vídeos e documentos, pesquisa na web e mantém memória semântica, sem chaves de API nem nuvem | Python, Ollama, FastAPI, Gradio, ChromaDB |
 | [Painel Cambial](https://github.com/guialbuquerque26/Painel-Cambial) | Dashboard de câmbio e criptomoedas em tempo real, com gráficos e calculadora de conversão entre moedas | FastAPI, React, Vite |
 | [RematchAnalyzer](https://github.com/guialbuquerque26/RematchAnalyzer) | Coleta de estatísticas de jogadores por scraping e análise de desempenho com IA | Python, Flask, Playwright, Gemini |
 | [IA-TALK-IA](https://github.com/guialbuquerque26/IA-TALK-IA) | Conversa autônoma entre duas IAs (Gemini e Cohere), com relatório final gerado automaticamente | Python, Gemini, Cohere |
