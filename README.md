@@ -1,8 +1,8 @@
-# Olá, eu sou o Guilherme 👋
+# Guilherme Albuquerque
 
 **Desenvolvedor Full Stack** com foco em **Python, React e SQL**. Crio sistemas internos, dashboards de análise de dados, automações e integrações com APIs REST. Também exploro IA generativa, LLMs, agentes de IA e servidores MCP.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -26,7 +26,7 @@
 | [RematchAnalyzer](https://github.com/guialbuquerque26/RematchAnalyzer) | Coleta de estatísticas de jogadores por scraping e análise de desempenho com IA | Python, Flask, Playwright, Gemini |
 | [IA-TALK-IA](https://github.com/guialbuquerque26/IA-TALK-IA) | Conversa autônoma entre duas IAs (Gemini e Cohere), com relatório final gerado automaticamente | Python, Gemini, Cohere |
 
-## 💼 Experiência
+## Experiência
 
 **Queonetics** · Desenvolvedor de Produtos Internos | Suporte Técnico N2
 
@@ -36,7 +36,7 @@ Comecei no Suporte Técnico N2 e passei a desenvolver os produtos internos da em
 - **SynQ:** plataforma que unificou várias ferramentas de análise em um único dashboard, com busca de veículos e chat com IA.
 - **SynQ Guardian:** visão panorâmica de toda a frota (em fase piloto).
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-albuquerque-dev/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](mailto:albuquerque.oficce@gmail.com)
