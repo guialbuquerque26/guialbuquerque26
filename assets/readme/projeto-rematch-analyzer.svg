@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">RematchAnalyzer</title>
+  <desc id="descricao">Coleta estatísticas de jogadores por scraping e analisa o desempenho com IA. Tecnologias: Python, Flask, Playwright e Gemini.</desc>
+
+  <rect width="1200" height="170" rx="20" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="168" rx="19" fill="none" stroke="#2A3340" stroke-width="2"/>
+  <g font-family="'Cascadia Mono', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="48" y="64" font-size="38" font-weight="700" fill="#5EEAD4">~/</text>
+    <text x="96" y="64" font-size="38" font-weight="700" fill="#E8EEF4">RematchAnalyzer</text>
+    <text x="48" y="106" font-size="24" fill="#E8EEF4">Coleta estatísticas de jogadores por scraping e analisa o desempenho com IA</text>
+    <text x="48" y="142" font-size="20" fill="#8A97A6">Python · Flask · Playwright · Gemini</text>
+  </g>
+</svg>

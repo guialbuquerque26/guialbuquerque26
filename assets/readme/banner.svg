@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Guilherme Albuquerque, Desenvolvedor Full Stack</title>
+  <desc id="descricao">Tela de terminal com o perfil de Guilherme: Python, React, SQL e FastAPI, com foco em automação, integração de APIs e IA.</desc>
+
+  <rect id="fundo" width="1200" height="420" rx="20" fill="#0B0F14"/>
+  <path d="M0 52V20A20 20 0 0 1 20 0H1180A20 20 0 0 1 1200 20V52Z" fill="#141A21"/>
+  <rect x="1" y="1" width="1198" height="418" rx="19" fill="none" stroke="#2A3340" stroke-width="2"/>
+  <circle cx="34" cy="26" r="8" fill="#3A4552"/>
+  <circle cx="60" cy="26" r="8" fill="#3A4552"/>
+  <circle cx="86" cy="26" r="8" fill="#3A4552"/>
+
+  <g font-family="'Cascadia Mono', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="600" y="33" text-anchor="middle" font-size="20" fill="#8A97A6">guilherme@github: ~</text>
+
+    <text x="48" y="104" font-size="28" font-weight="700" fill="#5EEAD4">$</text>
+    <text id="comando" x="82" y="104" font-size="28" fill="#E8EEF4">guilherme --perfil</text>
+
+    <text id="nome" x="48" y="190" font-size="72" font-weight="700" fill="#E8EEF4">Guilherme Albuquerque</text>
+    <text id="cargo" x="48" y="242" font-size="34" font-weight="700" fill="#F5B454">Desenvolvedor Full Stack</text>
+    <text id="pilha" x="48" y="288" font-size="28" fill="#E8EEF4">Python · React · SQL · FastAPI</text>
+    <text id="foco" x="48" y="326" font-size="28" fill="#8A97A6">Automação, integração de APIs e IA</text>
+
+    <g id="prompt-final" font-size="28">
+      <text x="48" y="382" font-weight="700" fill="#5EEAD4">$</text>
+      <text id="comando-final" x="82" y="382" fill="#E8EEF4"></text>
+    </g>
+    <rect id="cursor" x="82" y="360" width="15" height="28" fill="#5EEAD4"/>
+  </g>
+</svg>
