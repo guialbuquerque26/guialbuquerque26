@@ -18,9 +18,6 @@ Crio sistemas internos, dashboards de análise de dados, automações e integra�
 <p align="center">
   <a href="https://github.com/guialbuquerque26/RematchAnalyzer"><img src="./assets/readme/projeto-rematch-analyzer.svg" width="100%" alt="RematchAnalyzer: coleta de estatísticas de jogadores por scraping e análise de desempenho com IA"></a>
 </p>
-<p align="center">
-  <a href="https://github.com/guialbuquerque26/IA-TALK-IA"><img src="./assets/readme/projeto-ia-talk-ia.svg" width="100%" alt="IA-TALK-IA: conversa autônoma entre duas IAs, com relatório final gerado automaticamente"></a>
-</p>
 
 ## Experiência
 
