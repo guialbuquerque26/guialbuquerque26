@@ -61,3 +61,7 @@ Comecei no Suporte Técnico N2 e passei a desenvolver os produtos internos da em
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-albuquerque-dev/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](mailto:albuquerque.oficce@gmail.com)
+
+<p align="center">
+  <a href="https://giphy.com/gifs/super-saiyan-7VxvaukLmaCWI"><img src="https://media.giphy.com/media/7VxvaukLmaCWI/200w.gif" width="160" alt="Broly se transformando em Super Saiyan"></a>
+</p>
