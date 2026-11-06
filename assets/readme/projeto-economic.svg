@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Economic</title>
+  <desc id="descricao">Programa gratuito para Windows que lê extratos de qualquer banco, separa os gastos por categoria, compara os últimos meses e sugere com IA onde economizar.</desc>
+
+  <rect width="1200" height="330" rx="20" fill="#0B0F14"/>
+  <path d="M0 52V20A20 20 0 0 1 20 0H1180A20 20 0 0 1 1200 20V52Z" fill="#141A21"/>
+  <rect x="1" y="1" width="1198" height="328" rx="19" fill="none" stroke="#2A3340" stroke-width="2"/>
+  <circle cx="34" cy="26" r="8" fill="#3A4552"/>
+  <circle cx="60" cy="26" r="8" fill="#3A4552"/>
+  <circle cx="86" cy="26" r="8" fill="#3A4552"/>
+
+  <g font-family="'Cascadia Mono', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="600" y="33" text-anchor="middle" font-size="20" fill="#8A97A6">~/economic</text>
+
+    <g id="identidade">
+      <text x="48" y="136" font-size="72" font-weight="700" fill="#E8EEF4">Economic</text>
+      <text x="48" y="186" font-size="30" font-weight="700" fill="#F5B454">Para onde vai seu dinheiro</text>
+      <text x="48" y="234" font-size="24" fill="#E8EEF4">Programa gratuito para Windows.</text>
+      <text x="48" y="266" font-size="24" fill="#E8EEF4">Dicas de economia com IA.</text>
+    </g>
+
+    <g id="capacidades" font-size="26">
+      <text x="600" y="118" font-weight="700" fill="#5EEAD4">lê</text>
+      <text x="760" y="118" fill="#E8EEF4">extratos de qualquer banco</text>
+      <text x="600" y="162" font-weight="700" fill="#5EEAD4">separa</text>
+      <text x="760" y="162" fill="#E8EEF4">gastos por categoria</text>
+      <text x="600" y="206" font-weight="700" fill="#5EEAD4">compara</text>
+      <text x="760" y="206" fill="#E8EEF4">os últimos meses</text>
+      <text x="600" y="250" font-weight="700" fill="#5EEAD4">sugere</text>
+      <text x="760" y="250" fill="#E8EEF4">onde economizar</text>
+    </g>
+
+    <text x="48" y="304" font-size="20" fill="#8A97A6">Extratos em OFX, CSV, Excel ou PDF</text>
+  </g>
+</svg>

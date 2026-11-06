@@ -10,6 +10,9 @@ Crio sistemas internos, dashboards de análise de dados, automações e integra�
   <a href="https://github.com/guialbuquerque26/Atlas"><img src="./assets/readme/projeto-atlas.svg" width="100%" alt="Atlas: IA multimodal 100% local que analisa imagens, vídeos e documentos, pesquisa na web e mantém memória semântica, sem chaves de API nem nuvem"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/guialbuquerque26/economic"><img src="./assets/readme/projeto-economic.svg" width="100%" alt="Economic: programa gratuito para Windows que lê extratos de qualquer banco, separa os gastos por categoria, compara os últimos meses e sugere com IA onde economizar"></a>
+</p>
+<p align="center">
   <a href="https://github.com/guialbuquerque26/Painel-Cambial"><img src="./assets/readme/projeto-painel-cambial.svg" width="100%" alt="Painel Cambial: câmbio e criptomoedas em tempo real, com gráficos e calculadora de conversão entre moedas"></a>
 </p>
 <p align="center">
